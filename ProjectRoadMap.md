@@ -8,3 +8,7 @@ vb.net, and VB and .NET are not neccessarily compatible with Mac OSX
 Create a structure
 Determine a good language to develop with.
 Integrate Webkit into the Mac version. 
+
+**Development Delay**
+
+Currently in a Development hault. It is unknown whether development will be resumed.
